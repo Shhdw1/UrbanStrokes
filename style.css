@@ -1,0 +1,31 @@
+body{
+    
+    background-color: black;
+}
+
+h1{
+    color: aliceblue;
+    text-align: center;
+}
+
+#hall {
+
+    display: flex;
+}
+
+.frame{
+    height: 500px;
+    width: 500px;
+    
+    
+}
+
+img{
+    height: 400px;
+    padding: 15px;
+}
+
+img:hover{
+    border: 1px gold solid;
+    height: 1000px;
+}
